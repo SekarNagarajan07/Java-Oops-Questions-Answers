@@ -1,0 +1,24 @@
+                            JAVA CLASS & OBJECTS
+
+1.Create a class for Calculator. Write methods for finding sum, difference,
+product and quotient. All methods should take 2 numbers as input and
+return one integer.
+
+2. Create a class named Circle. Should have one method to read input radius
+as input. Copy radius into a public variable. Using that public variable,
+calculate area and perimeter in 2 separate methods.
+
+3. Create class named Student. Write methods to read marks as input and
+return total as output. Another method to take total and number of subject
+as input and return average.
+
+4. Create a class named Banking. It should contain methods for withdraw
+and deposit. Account balance should be defined as public variable and
+used in both methods.
+
+5. Create a class named Employee with public variables ID, name,
+department and salary. Write separate methods to assign the values and to
+print the values.
+
+6. Write a program to swap two values. Your program should have a swap
+function. In main method read 2 numbers and pass it to swap method.
