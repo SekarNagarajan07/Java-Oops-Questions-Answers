@@ -1,0 +1,15 @@
+                              JAVA CONSTRUCTORS
+
+1. In Circle class in yesterday’s lab task. Use constructor to initialize radius.
+And use the same in other methods.
+
+2. Create a class named Welcome. Write constructors, to display a welcome
+message. Create 2 constructors. One to read user name as input and tell
+welcome with name. Another default constructor to print Welcome
+Guest.
+
+3. Write a class with constructor. Initialize 2 numbers in constructor. Write
+methods to return quotient and reminder of those 2 numbers.
+
+4. Create a class named Banking. It should contain methods for withdraw
+and deposit. Account balance should be initialized in a constructor.
