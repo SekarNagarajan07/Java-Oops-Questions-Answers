@@ -21,3 +21,20 @@ class, both having a method to print "This is rectangular shape" and "This is
 circular shape" respectively. Create a subclass 'Square' of 'Rectangle' having a
 method to print "Square is a rectangle". Now call the method of 'Shape' and
 'Rectangle' class by the object of 'Square' class.
+
+4. A bank maintains two kinds of accounts – Savings account and Current
+account. The savings account provides simple interest, deposit and
+withdrawal facilities. The current account only provides deposit and
+withdrawal facilities. Using inheritance write program for the same.
+
+5. Create class Employee with name, id, designation, department,
+salary as members. Create methods to set input values and print data.
+Also create separate class for Marketing with sales incentives as member.
+Create separate methods to calculate total salary for a marketing
+employee.
+
+6. International airports have 2 types of memberships for frequent flyers –
+Platinum and Gold. Platinum members are allowed to use lounge and
+waiting room. Gold members can access waiting room only. Analyse and
+create 2 classes for each type of members – one as base and another as
+derived.
