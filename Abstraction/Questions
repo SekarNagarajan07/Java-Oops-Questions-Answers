@@ -1,0 +1,28 @@
+1. Create an abstract class 'Bank' with an abstract method 'getBalance'. $100,
+$150 and $200 are deposited in banks A, B and C respectively. 'BankA', 'BankB'
+and 'BankC' are subclasses of class 'Bank', each having a method named
+'getBalance'. Call this method by creating an object of each of the three classes.
+
+2. We have to calculate the percentage of marks obtained in three subjects (each
+out of 100) by student A and in four subjects (each out of 100) by student B.
+Create an abstract class 'Marks' with an abstract method 'getPercentage'. It is
+inherited by two other classes 'A' and 'B' each having a method with the same
+name which returns the percentage of the students. The constructor of student A
+takes the marks in three subjects as its parameters and the marks in four
+subjects as its parameters for student B. Create an object foreach of the two
+classes and print the percentage of marks for both the students.
+
+3. Write a java program to create an abstract class named Shape that
+contains empty method named printArea(). Provide three classes named
+Rectangle, Triangle and Circle such that each one of the classes extends
+the class Shape. Each one of the classes contain only the method
+printArea( ) that prints the area of the given shape.
+
+4. Write an abstract class named Employee that contains
+a. Abstract method for attendance
+b. Final method to remove employee
+c. Non abstract method for calculating salary as basic pay – pf
+Write 2 classes, Marketing and NewJoinee.
+In Marketing class, implement attendance() and salary(). Add
+Incentives in salary along with salary() in abstract class.
+In NewJoinee class, implement only attendance()
