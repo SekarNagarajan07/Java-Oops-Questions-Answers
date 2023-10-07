@@ -1,0 +1,14 @@
+1. Create a class named box with methods to find area of rectangle and
+square. Method name should be same.
+Formula for area of square is side*side
+Formula for area of rectangle is length*breadth
+
+2. Create a base class named Bank with method for interest calculation with
+3% of account balance. Create derived classes for ICICI and SBI. Each
+class should have their own interest calculation method with 4% and
+4.5% each.
+
+3. Create a super class Employee and get staff id, name, basic
+salary,allowances from the user.
+Create a sub class Marketing extends Employee and get sales incentives
+and calculate net pay print it all data using method overriding.
